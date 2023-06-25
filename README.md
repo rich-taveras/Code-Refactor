@@ -23,7 +23,7 @@ N/A
 ## Usage
 
 here is the link:
-https://rich-taveras.github.io/challenge1-code-refactoring/
+https://rich-taveras.github.io/Code-Refactor/
 
 <img src="./assets/images/Screenshot%202023-06-13%20153555.png">
 
